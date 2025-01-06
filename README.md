@@ -4,7 +4,8 @@ This project demonstrates the application of the PERT (Program Evaluation and Re
 
 The program models various project components such as tasks, their dependencies (predecessors and successors), and calculates key scheduling information like earliest and latest start dates, task durations, and slack (free time). The final output includes both the task scheduling data and a visual representation of the PERT diagram.
 
-[Présentation1.pdf](https://github.com/user-attachments/files/18321782/Presentation1.pdf)
+<img width="1287" alt="Capture d’écran 2025-01-06 à 17 27 01" src="https://github.com/user-attachments/assets/bc38226c-d2bc-4d50-8599-c3604580b834" />
+
 
 ## Features
 - **Task Scheduling**: Create tasks with names, durations, dependencies, and calculate earliest and latest start dates.
