@@ -53,3 +53,12 @@ Dependencies :
 ## How to run :
 python main.py
 
+# Known Issues
+
+The game window size is fixed.
+
+# License
+
+This game is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
+
+
